@@ -6,4 +6,4 @@ And here is a thing, I might not know much about it, but I am a fast learner �
 - 🔭 I’m currently working on to just learn the basics 
 - 🌱 I’m currently learning C and basic mathematics
 - 🤔 I’m looking for help with anything, wether it be ideas, tips , etc...
-- 📫 How to reach me: aditya@3102007singh@gmail.com
+- 📫 How to reach me: aditya3102007singh@gmail.com
